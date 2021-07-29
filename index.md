@@ -1,4 +1,4 @@
-## Velkommen til FØJ
+## Velkommen til FØJ (Fisse, Øl og Jyder)
 
 Dette er første udkast til hjemmesiden, som kommer til at indeholde bl.a. plan for foreningsmøder samt vedtægter.
 
