@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 logo: /assets/img/foej.svg
 description: Foreningen for Ønkeligt Jammer
-layout: no-title-post
+name: FØJ's site
+title: null
