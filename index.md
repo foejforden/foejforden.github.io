@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Velkommen til FØJ
+
+Dette er første udkast til hjemmesiden, som kommer til at indeholde bl.a. plan for foreningsmøder samt vedtægter.
+
+### Template Documentation
 
 You can use the [editor on GitHub](https://github.com/foejforden/foejforden.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
